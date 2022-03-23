@@ -1,9 +1,9 @@
 '''
-  File: util.py
+  File: game_sim.py
  
   Author: Thomas Kost
   
   Date: 23 March 2022
   
-  @breif general utilitites functions
+  @breif simulate a running of a game
  '''
